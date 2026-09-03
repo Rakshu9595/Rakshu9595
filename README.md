@@ -1,4 +1,6 @@
 # 💫 Hey there, I’m Rakshitha L.U. 👋:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakshu9595&label=Profile%20views&color=0e75b6&style=flat" alt="Rakshu9595" /> </p>
 <br>ML & AI Engineer passionate about building intelligent, real-world solutions with Machine Learning, Deep Learning, Generative AI, and RAG systems.<br><br>🤖 What I Do<br><br>* Build ML & AI applications using Python and modern AI frameworks.<br>* Develop RAG-based applications, LLM solutions, and AI assistants.<br>* Work with Computer Vision, NLP, embeddings, and vector databases.<br>* Build and integrate REST APIs and AI-powered backends.<br>
 
 
