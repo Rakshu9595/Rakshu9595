@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hey there, I'm Rakshitha L U 👋<br><br>ML Developer and AI Engineer passionate about building scalable, production-ready systems and real-world applied AI solutions. The co-lead **Team Technovative**, architecting everything from computer vision pipelines and RAG-driven platforms to robust microservices and IoT ecosystems.<br><br><br> 🚀 What I’m Working On :<br> <br> AI & Computer Vision: Designing real-time vision pipelines with YOLOv8 & OpenCV, along with context-aware RAG systems using LangChain, ChromaDB, and modern LLMs.<br> Backend Architecture: Building secure, high-concurrency APIs and microservices with Node.js/Express and Python, backed by MongoDB and JWT/RBAC security patterns.<br> Applied Innovation: Developing platforms like **Aravalli Intelligence** (satellite-driven land-use drift detection) and **MediMate AI** (RAG-based conversational healthcare).<br> Hardware & IoT: Prototyping edge devices and sensor networks using ESP32, Arduino, and Raspberry Pi.<br><br><br><br> 🏆 Hackathons & Milestones :<br><br> 🥇 2x International Hackathon Winner, Team Technovative (including HawkHacks)<br> 🎯 Finalist, Aarohan — Techfest IIT Bombay<br> ⚡ Top 25 Nationally — EFOS SkillUp India Hackathon<br><br><br>🌐 Let's Connect :<br><br>- LinkedIn : https://www.linkedin.com/in/-rakshithalu<br>- Email : rakshur1512@gmail.com
+Hey there, I’m Rakshitha L.U. 👋:
+<br><br>ML & AI Engineer passionate about building intelligent, real-world solutions with Machine Learning, Deep Learning, Generative AI, and RAG systems.<br><br>🤖 What I Do<br><br>* Build ML & AI applications using Python and modern AI frameworks.<br>* Develop RAG-based applications, LLM solutions, and AI assistants.<br>* Work with Computer Vision, NLP, embeddings, and vector databases.<br>* Build and integrate REST APIs and AI-powered backends.<br>
 
 
 ## 🌐 Socials:
@@ -10,9 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rakshu9595&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Rakshu9595&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rakshu9595&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Rakshu9595&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
